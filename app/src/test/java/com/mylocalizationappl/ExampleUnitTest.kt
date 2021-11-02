@@ -1,4 +1,4 @@
-package com.mylocalizationappl
+package com.mylocalizationapp
 
 import org.junit.Test
 
